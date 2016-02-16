@@ -1,0 +1,101 @@
+{
+  "id": 216881337,
+  "id_str": "216881337",
+  "name": "Dr. Rand Paul",
+  "screen_name": "RandPaul",
+  "location": "",
+  "profile_location": null,
+  "description": "I fight for the Constitution, individual liberty and the freedoms that make this country great.",
+  "url": "https://t.co/mDO3ds5fO5",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "https://t.co/mDO3ds5fO5",
+          "expanded_url": "http://www.randpaul.com/",
+          "display_url": "randpaul.com",
+          "indices": [
+            0,
+            23
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "protected": false,
+  "followers_count": 800438,
+  "friends_count": 428,
+  "listed_count": 10483,
+  "created_at": "Wed Nov 17 23:52:35 +0000 2010",
+  "favourites_count": 476,
+  "utc_offset": -18000,
+  "time_zone": "Eastern Time (US & Canada)",
+  "geo_enabled": true,
+  "verified": true,
+  "statuses_count": 9397,
+  "lang": "en",
+  "status": {
+    "created_at": "Thu Feb 11 15:34:50 +0000 2016",
+    "id": 697806002201059300,
+    "id_str": "697806002201059328",
+    "text": "He should be given a medal not fired. https://t.co/L9SoMdha1G",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 145,
+    "favorite_count": 231,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/L9SoMdha1G",
+          "expanded_url": "http://www.fox2detroit.com/news/local-news/88543818-story",
+          "display_url": "fox2detroit.com/news/local-new…",
+          "indices": [
+            38,
+            61
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "022330",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/681152691461042177/_PrgDgFA_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/681152691461042177/_PrgDgFA_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/216881337/1454523140",
+  "profile_link_color": "0084B4",
+  "profile_sidebar_border_color": "A8C7F7",
+  "profile_sidebar_fill_color": "C0DFEC",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

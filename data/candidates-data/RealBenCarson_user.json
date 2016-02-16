@@ -1,0 +1,122 @@
+{
+  "id": 1180379185,
+  "id_str": "1180379185",
+  "name": "Dr. Ben Carson",
+  "screen_name": "RealBenCarson",
+  "location": "Baltimore, MD ",
+  "profile_location": null,
+  "description": "The Official Twitter Page of Dr. Ben Carson. Connect on Facebook: http://t.co/eRNZLexlnW",
+  "url": "http://t.co/Y9BYJvMt6J",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/Y9BYJvMt6J",
+          "expanded_url": "http://www.bencarson.com",
+          "display_url": "bencarson.com",
+          "indices": [
+            0,
+            22
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "url": "http://t.co/eRNZLexlnW",
+          "expanded_url": "http://www.facebook.com/realbencarson",
+          "display_url": "facebook.com/realbencarson",
+          "indices": [
+            66,
+            88
+          ]
+        }
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 1129126,
+  "friends_count": 52,
+  "listed_count": 6933,
+  "created_at": "Thu Feb 14 21:33:22 +0000 2013",
+  "favourites_count": 134,
+  "utc_offset": -18000,
+  "time_zone": "Eastern Time (US & Canada)",
+  "geo_enabled": true,
+  "verified": true,
+  "statuses_count": 2716,
+  "lang": "en",
+  "status": {
+    "created_at": "Thu Feb 11 14:21:39 +0000 2016",
+    "id": 697787584567734300,
+    "id_str": "697787584567734272",
+    "text": "\"Ben Carson: I’ll continue in race as long as I have support of We the People\" https://t.co/ILPHKAxbCW via @washtimes",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 153,
+    "favorite_count": 501,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "WashTimes",
+          "name": "The Washington Times",
+          "id": 14662354,
+          "id_str": "14662354",
+          "indices": [
+            107,
+            117
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ILPHKAxbCW",
+          "expanded_url": "http://www.washingtontimes.com/news/2016/feb/11/ben-carson-ill-continue-race-long-i-have-support-w/#.VryYm9lXcwg.twitter",
+          "display_url": "washingtontimes.com/news/2016/feb/…",
+          "indices": [
+            79,
+            102
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": true,
+  "profile_background_color": "131516",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/572757289879085056/tn036psH.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/572757289879085056/tn036psH.jpeg",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/697067355403214848/APYOllwa_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/697067355403214848/APYOllwa_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1180379185/1434638555",
+  "profile_link_color": "89C9FA",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "252429",
+  "profile_text_color": "666666",
+  "profile_use_background_image": false,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

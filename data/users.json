@@ -1,0 +1,81 @@
+{
+  "Candidates": [
+    {
+      "id": "113047940",
+      "job": "Presidential Candidate",
+      "source": "generic",
+      "politicalParty": "Republican",
+      "name": "Jeb Bush",
+      "image": "assets/portraits/bush.jpg",
+      "twitterHandle": "JebBush",
+      "shortName": "bush",
+      "donorsDistinguishingTraits": [{"id":"Achievement striving"}]
+    },
+    {
+      "id": "29442313",
+      "job": "Presidential Candidate",
+      "source": "generic",
+      "politicalParty": "Democrat",
+      "name": "Bernard Sanders",
+      "image": "assets/portraits/sanders.png",
+      "twitterHandle": "SenSanders",
+      "shortName": "sanders",
+      "donorsDistinguishingTraits": [{"id":"Liberalism"}, {"id":"Self-consciousness"}]
+    },
+    {
+      "id": "1180379185",
+      "job": "Presidential Candidate",
+      "source": "generic",
+      "politicalParty": "Republican (Tea Party)",
+      "name": "Benjamin S. Carson",
+      "image": "assets/portraits/carson.jpg",
+      "twitterHandle": "RealBenCarson",
+      "shortName": "carson",
+      "donorsDistinguishingTraits": [{"id":"Liberalism"}]
+    },
+    {
+      "id": "15745368",
+      "job": "Presidential Candidate",
+      "source": "generic",
+      "politicalParty": "Republican (Tea Party)",
+      "name": "Marco Rubio",
+      "image": "assets/portraits/rubio.jpg",
+      "twitterHandle": "marcorubio",
+      "shortName": "rubio",
+      "donorsDistinguishingTraits": [{"id":"Cooperation"},{"id":"Closeness"}]
+    },
+    {
+      "id": "1339835893",
+      "job": "Presidential Candidate",
+      "source": "generic",
+      "politicalParty": "Democrat",
+      "name": "Hillary Rodham Clinton",
+      "image": "assets/portraits/clinton.png",
+      "twitterHandle": "HillaryClinton",
+      "shortName": "hilary",
+      "donorsDistinguishingTraits": [{"id":"Achievement striving"}]
+    },
+    {
+      "id": "23022687",
+      "job": "Presidential Candidate",
+      "source": "generic",
+      "politicalParty": "Republican (Tea Party)",
+      "name": "Rafael Edward 'Ted' Cruz",
+      "image": "assets/portraits/cruz.jpeg",
+      "twitterHandle": "tedcruz",
+      "shortName": "cruz",
+      "donorsDistinguishingTraits": [{"id":"Self-expression"},{"id":"Openness to change"}]
+    },
+    {
+      "id": "216881337",
+      "job": "Presidential Candidate",
+      "source": "generic",
+      "politicalParty": "Republican (Tea Party)",
+      "name": "Rand Paul",
+      "image": "assets/portraits/rand.png",
+      "twitterHandle": "randpaul",
+      "shortName": "randpaul",
+      "donorsDistinguishingTraits": [{"id":"Artistic interests"}]
+    }
+  ]
+}

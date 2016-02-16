@@ -1,0 +1,94 @@
+//- index.jade
+//-
+//-  Copyright 2015 IBM Corp. All Rights Reserved.
+//-  
+//-  Licensed under the Apache License, Version 2.0 (the "License"); you may not
+//-  use this file except in compliance with the License. You may obtain a copy of
+//-  the License at
+//-  
+//-  http://www.apache.org/licenses/LICENSE-2.0
+//-  
+//-  Unless required by applicable law or agreed to in writing, software
+//-  distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
+//-  WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
+//-  License for the specific language governing permissions and limitations under
+//-  the License.
+
+  
+extends ./layout.jade
+
+block row-content
+  div#formulas
+    .row
+      .subtitle2(style='margin-top: 0px') Meet the Candidates
+      div.text-center
+        i
+          cursive Click on any of the candidates to see their personality and characteristics of their donors
+      br
+      br
+    .container
+      .row
+        //- First row
+        .col-md-2.hidden-sm
+        each formula in formulas.slice(0,4)
+          .col-md-2.col-sm-3.col-xs-4.col-xss-6
+            +president(formula.president)
+        .col-md-2.hidden-sm
+        
+        //- Second row
+        .col-md-3.col-sm-1
+        .col-md-2.col-sm-3.col-xs-4.col-xss-6
+          +president(formulas[4].president)
+        .col-md-2.col-sm-4.col-xs-4.col-xss-6
+          +president(formulas[5].president)
+        .col-md-2.col-sm-3.col-xs-4.col-xss-6
+          +president(formulas[6].president)
+        .col-md-3.col-sm-1
+        
+      .row
+        .subtitle2(style='margin-top: 20px') Meet the Donors
+        div.text-center
+          i
+            cursive Graphical representation of the mean personality for the group of donors of each candidate  
+        iframe#donorsGraph.autoSize(
+          width="100%", height="700px", frameborder="0", style='margin: auto'
+          src="http://us-donors-2016.mybluemix.net/graph.html")
+
+  div#expandedUser.container(style='display:none')
+    .row
+      .col-sm-2.col-xs-3
+        each formula in formulas
+            +president(formula.president)
+  
+      .col-sm-10.col-xs-9
+        .row
+          .sectionHeader
+            span.currentUser.name Personality Summary
+        
+        +tabset
+          +tab(view='candidatePersonality').expandedUser.trigger.active Personality
+          +tab(view='donorsPersonality').expandedUser.trigger Donors Personality
+          +tab(view='donorsListContent').expandedUser.trigger Donors List
+        +tabcontent
+          +tabpane#candidatePersonality.expandedUser.content.active
+            #candidateSection.currentUser.personality_summary
+          +tabpane#donorsListContent.expandedUser.content(style='display:none')
+            .row
+              p The following people contributed to the campaign*. Click on any name to see their Twitter profile**. 
+            #donorsList
+            div
+              p(style='color:#FFF') .
+            div
+              p(style='font-size:14px') * Donors data obtained from 
+                a(href='http://www.fec.gov/disclosurep/PDownload.do' target='_blank') http://www.fec.gov/disclosurep/PDownload.do 
+              p(style='font-size:14px') ** The correspondence with Twitter data was done using probabilistic matching and may not be 100% accurate.
+          +tabpane#donorsPersonality.expandedUser.content(style='display:none')
+            .row
+              iframe#donorsDifference(width="100%", height="2066px", src="", frameborder="0")
+
+
+
+block scripts
+  include scripts.jade
+  script(type='text/javascript', src='/scripts/lab.js')
+  script(type='text/javascript', src='/scripts/client.js')

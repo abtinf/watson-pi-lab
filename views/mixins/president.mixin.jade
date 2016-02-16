@@ -1,0 +1,6 @@
+mixin president(president)
+  .formula(id=president.name.replace(/[ ']+/g, ''))&attributes(attributes)  
+    .formula-president.formula-user(data-id=president.id)
+      img(src=president.image)
+    .formula-name
+      span= president.name

@@ -1,0 +1,18 @@
+mixin tabset
+  ul.nav.nav-tabs&attributes(attributes)
+    block
+
+//- Parameters: view
+mixin tab
+  li(role='presentation', id=attributes.view+'-trigger', data-view=attributes.view)&attributes(attributes)
+    a 
+      block
+
+mixin tabcontent
+  .tab-content&attributes(attributes)
+    block
+    
+//- You must set an ID for this.
+mixin tabpane
+  .tab-pane(style='display:none')&attributes(attributes)
+    block

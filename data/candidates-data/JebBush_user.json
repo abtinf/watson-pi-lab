@@ -1,0 +1,122 @@
+{
+  "id": 113047940,
+  "id_str": "113047940",
+  "name": "Jeb Bush",
+  "screen_name": "JebBush",
+  "location": "Miami, FL",
+  "profile_location": {
+    "id": "04cb31bae3b3af93",
+    "url": "https://api.twitter.com/1.1/geo/id/04cb31bae3b3af93.json",
+    "place_type": "unknown",
+    "name": "Miami, FL",
+    "full_name": "Miami, FL",
+    "country_code": "",
+    "country": "",
+    "contained_within": [],
+    "bounding_box": null,
+    "attributes": {}
+  },
+  "description": "43rd Governor of Florida. Candidate for President of the United States. \nConnect on Facebook:\nhttps://t.co/e8DhvF8teu",
+  "url": "http://t.co/4DHetHgT3D",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/4DHetHgT3D",
+          "expanded_url": "http://Jeb2016.com",
+          "display_url": "Jeb2016.com",
+          "indices": [
+            0,
+            22
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "url": "https://t.co/e8DhvF8teu",
+          "expanded_url": "http://facebook.com/jebbush",
+          "display_url": "facebook.com/jebbush",
+          "indices": [
+            94,
+            117
+          ]
+        }
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 458122,
+  "friends_count": 230,
+  "listed_count": 6772,
+  "created_at": "Wed Feb 10 14:45:07 +0000 2010",
+  "favourites_count": 68,
+  "utc_offset": -18000,
+  "time_zone": "Eastern Time (US & Canada)",
+  "geo_enabled": true,
+  "verified": true,
+  "statuses_count": 3833,
+  "lang": "en",
+  "status": {
+    "created_at": "Thu Feb 11 14:22:50 +0000 2016",
+    "id": 697787886150660100,
+    "id_str": "697787886150660097",
+    "text": "We must transform our education system so all children are prepared to succeed: https://t.co/FIL4puFg6R",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 25,
+    "favorite_count": 71,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/FIL4puFg6R",
+          "expanded_url": "http://jeb.cm/1SKcolg",
+          "display_url": "jeb.cm/1SKcolg",
+          "indices": [
+            80,
+            103
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/591000793303547905/eu1KYXqx_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/591000793303547905/eu1KYXqx_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/113047940/1448037842",
+  "profile_link_color": "0084B4",
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": true,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

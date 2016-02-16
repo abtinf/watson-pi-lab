@@ -1,0 +1,101 @@
+{
+  "id": 1339835893,
+  "id_str": "1339835893",
+  "name": "Hillary Clinton",
+  "screen_name": "HillaryClinton",
+  "location": "New York, NY",
+  "profile_location": {
+    "id": "27485069891a7938",
+    "url": "https://api.twitter.com/1.1/geo/id/27485069891a7938.json",
+    "place_type": "unknown",
+    "name": "New York, NY",
+    "full_name": "New York, NY",
+    "country_code": "",
+    "country": "",
+    "contained_within": [],
+    "bounding_box": null,
+    "attributes": {}
+  },
+  "description": "Wife, mom, grandma, women+kids advocate, FLOTUS, Senator, SecState, hair icon, pantsuit aficionado, 2016 presidential candidate. Tweets from Hillary signed –H",
+  "url": "https://t.co/qqt83R8Fqb",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "https://t.co/qqt83R8Fqb",
+          "expanded_url": "http://hrc.io/signup",
+          "display_url": "hrc.io/signup",
+          "indices": [
+            0,
+            23
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "protected": false,
+  "followers_count": 5354764,
+  "friends_count": 597,
+  "listed_count": 23462,
+  "created_at": "Tue Apr 09 18:04:35 +0000 2013",
+  "favourites_count": 902,
+  "utc_offset": -18000,
+  "time_zone": "Eastern Time (US & Canada)",
+  "geo_enabled": true,
+  "verified": true,
+  "statuses_count": 4074,
+  "lang": "en",
+  "status": {
+    "created_at": "Thu Feb 11 13:45:57 +0000 2016",
+    "id": 697778601282957300,
+    "id_str": "697778601282957314",
+    "text": "HBCUs graduate the majority of African American teachers in our country. We should support and reward HBCUs and the vital role they play.",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 568,
+    "favorite_count": 927,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "0057B8",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/697401831266381824/Af34Cc_v_normal.png",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/697401831266381824/Af34Cc_v_normal.png",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1339835893/1455108567",
+  "profile_link_color": "0057B8",
+  "profile_sidebar_border_color": "000000",
+  "profile_sidebar_fill_color": "000000",
+  "profile_text_color": "000000",
+  "profile_use_background_image": false,
+  "has_extended_profile": true,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}
