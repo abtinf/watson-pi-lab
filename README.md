@@ -1,9 +1,4 @@
 # Watson Personality Insights
-## dev@ InterConnect session 6948 - 15 minute Hello World lab
-
-  Welcome to the dev@ Interconnect 2016 Hello World lab session for Watson Personality Insights. 
-  Let's build a cool web application powered by Watson Personality Insights.
-
 
 ## Getting Started
 ---
@@ -26,9 +21,6 @@
 
 5. Test the recently deployed template app with the link provided.
 
-6. Continue with the instrucions provided for the lab in the iPad standing next to your computer.
-
-
 ## License
 ---
   This application code is licensed under Apache 2.0. Full license text is available in [LICENSE](LICENSE).
@@ -45,15 +37,11 @@ To troubleshoot your Bluemix app the main useful source of information are the l
   $ cf logs <application-name> --recent
   ```
 
-## Contributing
----
-  See [CONTRIBUTING](CONTRIBUTING.md).
-
 ## Open Source @ IBM
 ---
   Find more open source projects on the [IBM Github Page](http://ibm.github.io/)
 
-[deploy2bluemix]:https://bluemix.net/deploy?repository=https://github.com/agustincasamayor/watson-pi-lab-interconnect
+[deploy2bluemix]:https://bluemix.net/deploy?repository=https://github.com/abtinf/watson-pi-lab
 [npm]:https://www.npmjs.com/
 [nodejs]:http://nodejs.org/
 [cloud_foundry]: https://github.com/cloudfoundry/cli
